@@ -1,1 +1,1 @@
-https://github.com/tetrastarz3/rsschool-cv/cv
+https://github.com/tetrastarz3/rsschool-cv/
